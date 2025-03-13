@@ -1,0 +1,42 @@
+[
+    {
+        "prompt": "Generate an ERC-20 token contract with burn functionality",
+        "output": "pragma solidity ^0.8.0; contract MyToken { ... }"
+    },
+    {
+        "prompt": "Generate an ERC-721 NFT contract with metadata storage",
+        "output": "pragma solidity ^0.8.0; contract MyNFT { ... }"
+    },
+    {
+        "prompt": "Create a simple voting contract with a function to add a candidate",
+        "output": "pragma solidity ^0.8.0; contract Voting { ... }"
+    },
+    {
+        "prompt": "Generate a smart contract for a decentralized exchange",
+        "output": "pragma solidity ^0.8.0; contract Dex { ... }"
+    },
+    {
+        "prompt": "Create a smart contract for a crowdfunding platform",
+        "output": "pragma solidity ^0.8.0; contract Crowdfunding { ... }"
+    },
+    {
+        "prompt": "Generate an ERC-777 token contract with operator functionality",
+        "output": "pragma solidity ^0.8.0; contract MyTokenERC777 { ... }"
+    },
+    {
+        "prompt": "Create a smart contract for a decentralized autonomous organization (DAO)",
+        "output": "pragma solidity ^0.8.0; contract DAO { ... }"
+    },
+    {
+        "prompt": "Generate a smart contract for a lottery system",
+        "output": "pragma solidity ^0.8.0; contract Lottery { ... }"
+    },
+    {
+        "prompt": "Create a smart contract for an escrow service",
+        "output": "pragma solidity ^0.8.0; contract Escrow { ... }"
+    },
+    {
+        "prompt": "Generate an ERC-1155 multi-token contract",
+        "output": "pragma solidity ^0.8.0; contract MyMultiToken { ... }"
+    }
+]
