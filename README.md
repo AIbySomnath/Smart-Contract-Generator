@@ -112,7 +112,7 @@ The primary design goal of this project was to create a user-friendly interface 
 
 ### Download Button
 
-![Download Button](screenshots/download_button.png)
+![Download Button](streamlit-app-2025-03-13-15-03-53.webm)
 
 ## License
 
